@@ -1,4 +1,6 @@
-# CryptoPuzzles
+AES 128 encryption/decryption.
+
+Was used to solve: 
 Cryptopals
 Set 1 challenge 7 Solution
 
